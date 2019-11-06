@@ -1,0 +1,19 @@
+{
+  "name": "img-fun",
+  "version": "1.0.0",
+  "description": "Gets nsfw or sfw images from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nsfw",
+    "hentai",
+    "porn",
+    "adult",
+    "18+",
+    "nudity"
+  ],
+  "author": "Vic",
+  "license": "ISC"
+}
